@@ -76,10 +76,10 @@ Con el tiempo, iré reparando errores y actualizando el proyecto (por ejemplo, c
 
  <img src="https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/401cfe29-fd28-43c1-b2bf-6c536613c7b0" alt="alt text" width=225 height=400>
 
-![image](https://github.com/haliercesr/pidogs2023/assets/115671323/951e9ead-9f5c-4477-860d-75837b046ed4)
+![image](https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/ebc325ca-0c5a-4aad-80a3-5de7908ddba5)
 
 
-![sdfsdfsdfsf](https://github.com/haliercesr/pidogs2023/assets/115671323/52c111ab-37ff-4c34-9881-d9bc58879412)
+![image](https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/92402a00-94aa-4179-9b80-483e680b6f48)
 
 
 
