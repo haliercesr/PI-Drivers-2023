@@ -68,13 +68,13 @@ Con el tiempo, iré reparando errores y actualizando el proyecto (por ejemplo, c
 ## Capturas de Pantalla
 
 
- <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/701d0eab-15be-4208-847d-649cca7844da" alt="alt text" width=225 height=400>
+ <img src="https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/f1bb13fb-7707-47c2-aad8-b7fe6c64302a" alt="alt text" width=225 height=400>
 
- <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/1cc99689-981c-4da1-bd4f-3370d954e005" alt="alt text" width=225 height=400>
+ <img src="https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/9cd98e80-655c-48aa-ab1b-90b413f24b35" alt="alt text" width=225 height=400>
 
- <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/0ca4e267-771f-49a1-a32e-b14b48e010ad" alt="alt text" width=225 height=400>
+ <img src="https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/1880336d-d10b-4cd2-8821-8d7bfc25b267" alt="alt text" width=225 height=400>
 
- <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/d48259df-6e53-4e13-85c6-a5ad57387909" alt="alt text" width=225 height=400>
+ <img src="https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/401cfe29-fd28-43c1-b2bf-6c536613c7b0" alt="alt text" width=225 height=400>
 
 ![image](https://github.com/haliercesr/pidogs2023/assets/115671323/951e9ead-9f5c-4477-860d-75837b046ed4)
 
