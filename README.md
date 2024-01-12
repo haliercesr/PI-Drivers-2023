@@ -89,36 +89,35 @@ Con el tiempo, iré reparando errores y actualizando el proyecto (por ejemplo, c
 
 ## Guía de Uso
 
-**1.** Visita [https://pidogs2023.vercel.app/](https://pidogs2023.vercel.app/) en tu navegador.
+**1.** Visita [https://pi-drivers-2023.vercel.app/](https://pi-drivers-2023.vercel.app/) en tu navegador.
 
 <p align="center">
-  <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/18f2e578-795e-4bca-84e9-6ff3bad54847" alt="Inicio" width=400 height=200>
+  <img src="https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/7dbeb234-2ef7-4ed5-a9c8-1996bc6e086f" alt="Inicio" width=400 height=200>
 </p>
 
 
-
-**2.** Para ver los detalles de alguna raza hacer click en una card o insertar el nombre en el buscador y presionar "buscar"
+**2.** Para ver los detalles de alguna conductor hacer click en una card o insertar el nombre en el buscador y presionar "buscar"
 
 <p align="center">
-  <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/68786e2c-16c5-4cc9-b0ed-c287f3c28665" alt="Inicio" width=400 height=200>
+  <img src="https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/f42a7b76-93f8-415b-bb49-fe780fa60ef9" alt="Inicio" width=400 height=200>
 </p>
 
 
-**3.** Para crear una raza hacer click en el boton "Create", completar todos los campos obligatorios y hacer click en crear.Para la imagen podes buscar el link de alguna imagen en la web.Si todo va bien te saldra el mensaje "el perro se creo con exito!". Para volver al menu principal seleccionar el boton "volver a inicio"
+**3.** Para crear una raza hacer click en el boton "Create", completar todos los campos obligatorios y hacer click en crear.Para la imagen podes buscar el link de alguna imagen en la web.Si todo va bien te saldra el mensaje "el piloto se creo con exito!". Para volver al menu principal seleccionar el boton "volver a inicio"
 
 <p align="center">
-  <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/548eb5e2-15a6-4f7e-8371-482c3e16dc64" alt="Inicio" width=400 height=200>
+  <img src="https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/f2d7ad7a-17af-4444-ad8d-faf9256354d0" alt="Inicio" width=400 height=200>
 </p>
 
 
 **4.** Para filtrar mejor las busquedas utilizar los filtros combinados.
 
 <p align="center">
-  <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/d441c2c5-d7a3-442d-9ce1-92fd2a07533c" alt="Inicio" width=400 height=200>
+  <img src="https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/199a6ae1-8fca-4565-8515-8f836a2b5d34" alt="Inicio" width=400 height=200>
 </p>
 
 
-**5.** Disfruta.
+**5.** Disfruta buscando a tu conductor favorito.
 
 ## Cómo Contribuir
 
