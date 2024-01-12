@@ -5,9 +5,9 @@
 ![image](https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/f6aeabee-0093-4024-81c4-3b663fec73fa)
 
 
-¡Hola a todos! 😃 Con mucho esfuerzo y dedicación, he terminado otro proyecto, estoy muy contento de haberlo logrado.
+En esta SPA se enfatizo mas en la practicidad de las tecnologias aprendidas, se trabajo mas en la modularizacion y se utilizaron mejores practicas. Se esta trabajando en la documentacion en Git Hub y en modularizar mas.Consta de una Landing Page, Home Page, Detail Page y Form Page. Las tecnologías utilizadas fueron React, Redux, NodeJS, Express y Sequelize.
 
-Se trata de una single page application que consta de una Landing Page, Home Page, Detail Page y Form Page. Las tecnologías utilizadas fueron React, Redux, NodeJS, Express y Sequelize.
+Para este proyecto se reemplazo Create React App por Vite, para mejorar el rendimiento.
 
 El flujo es el siguiente: El frontend se comunica con un servidor BBF (BACK FOR FRONT) robusto y modularizado. Este servidor se programó en Express y filtra la información que se consume desde una API externa y la devuelve al frontend. También puede guardar datos según se solicite en una base de datos relacional. El servidor y la base de datos se comunican a través del ORM Sequelize. La base de datos está hecha con PostgreSQL y pgAdmin. Para probar el servidor, se utilizó el software Insomnia.
 
@@ -26,32 +26,33 @@ Con el tiempo, iré reparando errores y actualizando el proyecto (por ejemplo, c
 
 ## Funcionalidades
 
-**1.** Búsqueda de perros por Raza: Los usuarios pueden ingresar el nombre de la raza y obtener información sobre la misma.
+**1.** Búsqueda de pilotos por nombre: Los usuarios pueden ingresar el nombre del piloto y obtener información sobre el mismo.
 
-**2.** Listado de Razas: Se muestra una lista de perros con sus nombres y algunas características principales.
+**2.** Listado de pilotos: Se muestra una lista de drivers con sus nombres y algunas características principales.
 
-**3.** Detalles de una raza: Los usuarios pueden hacer clic en una raza en la lista para ver información detallada, como su altura, peso y años de vida y temperamentos.
+**3.** Detalles de piloto: Los usuarios pueden hacer click en uno de la lista para ver la información detallada, como su descripcion, escuderias y fecha de nacimiento.
 
-**4.** Añadir de una raza: Los usuarios pueden añadir una raza que no se encuentre en el listado, la raza creada se guarda automaticamente en la base de datos.
+**4.** Añadir de un nuevo conductor: Los usuarios pueden añadir un nuevo conductor que no se encuentre en el listado, el conductor creado se guarda automaticamente en la base de datos.
 
-**5.** Barra de Navegación: Una barra de navegación proporciona enlaces a las diferentes secciones de la aplicación, como la página de inicio, crear una raza, buscar una raza, volver al inicio y salir.
+**5.** Barra de Navegación: Una barra de navegación proporciona enlaces a las diferentes secciones de la aplicación, como la página de inicio, crear una piloto, buscar un piloto por nombre, volver al inicio y salir.
 
-**6.** Filtros combinados: para poder filtrar los resultados por nombre de raza, ordenar segun el alfabeto o el peso, filtrar segun la api o razas creadas en la base de datos.
+**6.** Filtros combinados: para poder filtrar los resultados por nombre de escuderias, ordenar segun el alfabeto o edad, filtrar segun la api o pilotos creados en la base de datos.
 
-**7.** Alertas Personalizadas: Se muestran alertas personalizadas en caso de errores o acciones importantes, ver creacion de una nueva raza.
+**7.** Alertas Personalizadas: Se muestran alertas personalizadas en caso de errores o acciones importantes, ver creacion de un nuevo piloto.
 
 **8.** Rutas y Enrutamiento: Se utiliza React Router para administrar y facilitar la navegación entre diferentes páginas y componentes de la aplicación.
 
-**9.** Gestión de Estado con Redux: Redux se utiliza para gestionar el estado global de la aplicación, como guardar informacion recibida del servidor para usarla en el front ya sea temperamentos de perros, razas, busqueda por nombre de raza y mas.
+**9.** Gestión de Estado con Redux: Redux se utiliza para gestionar el estado global de la aplicación, como guardar informacion recibida del servidor para usarla en el front ya sea escuderias, pilotos, busqueda por nombre de piloto y mas.
 
 **10.** Diseño Responsivo: La interfaz está diseñada para adaptarse a diferentes tamaños de pantalla y dispositivos, asegurando una experiencia de usuario consistente.
 
 **11.** Estilos Personalizados: Solo se utilizo CSS , los estilos CSS personalizados se aplican para crear una apariencia agradable y coherente en toda la aplicación.
 
-**12.** Interacción con API: La aplicación se conecta a una API externa para obtener información actualizada sobre cada raza.Para cada solicitud de informacion del servidor a la API externa se utiliza una API KEY proporcionada por la misma una vez que se regista en el sitio
+**12.** Interacción con API: La aplicación se conecta a una API externa para obtener información actualizada sobre cada conductor.
 
 ## Tecnologías Utilizadas
 
+- Vite
 - React
 - React Router
 - Redux
